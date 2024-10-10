@@ -1,0 +1,40 @@
+[17-Dec-2023 04:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:27:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:27:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:32:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
+[17-Dec-2023 04:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function electro_get_header() in /home/sotehnci/public_html/wp-content/themes/electro/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sotehnci/public_html/wp-content/themes/electro/index.php on line 14
